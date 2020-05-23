@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/phoneX-React/static/css/main.8e0fd072.chunk.css",
+    "main.js": "/phoneX-React/static/js/main.4e55d146.chunk.js",
+    "main.js.map": "/phoneX-React/static/js/main.4e55d146.chunk.js.map",
+    "runtime-main.js": "/phoneX-React/static/js/runtime-main.31a80b22.js",
+    "runtime-main.js.map": "/phoneX-React/static/js/runtime-main.31a80b22.js.map",
+    "static/js/2.aa544c1c.chunk.js": "/phoneX-React/static/js/2.aa544c1c.chunk.js",
+    "static/js/2.aa544c1c.chunk.js.map": "/phoneX-React/static/js/2.aa544c1c.chunk.js.map",
+    "index.html": "/phoneX-React/index.html",
+    "precache-manifest.de2a8c759de0592275213c1715027ddf.js": "/phoneX-React/precache-manifest.de2a8c759de0592275213c1715027ddf.js",
+    "service-worker.js": "/phoneX-React/service-worker.js",
+    "static/css/main.8e0fd072.chunk.css.map": "/phoneX-React/static/css/main.8e0fd072.chunk.css.map",
+    "static/js/2.aa544c1c.chunk.js.LICENSE.txt": "/phoneX-React/static/js/2.aa544c1c.chunk.js.LICENSE.txt",
+    "static/media/phonexCollapse.png": "/phoneX-React/static/media/phonexCollapse.c8c592bf.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.31a80b22.js",
+    "static/js/2.aa544c1c.chunk.js",
+    "static/css/main.8e0fd072.chunk.css",
+    "static/js/main.4e55d146.chunk.js"
+  ]
+}
