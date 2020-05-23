@@ -1,0 +1,23 @@
+.btn-searching {
+    color: #ac85f0;
+    font-size: 18px;
+}
+
+.active-cyan-4 input[type=text]:focus:not([readonly]) {
+    border-bottom: 1px solid #4dd0e1;
+    box-shadow: 0 1px 0 0 #4dd0e1;
+}
+
+.active-cyan- input[type=text] {
+    border-bottom: 1px solid #4dd0e1;
+    box-shadow: 0 1px 0 0 #4dd0e1;
+}
+
+.active-cyan .fa,
+.active-cyan-4 .fa {
+    color: #4dd0e1;
+}
+
+.btn-search-nav {
+    background-color: #4dd0e1;
+}

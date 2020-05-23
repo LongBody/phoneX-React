@@ -1,0 +1,16 @@
+export const LIST_ALL = 'LIST_ALL';
+export const ADD_TASK = 'ADD_TASK';
+export const UPDATE_STATUS = 'UPDATE_STATUS';
+export const DELETE_PRODUCT = 'DELETE_PRODUCT';
+export const OPEN_FORM = 'OPEN_FORM';
+export const CLOSE_FORM = 'CLOSE_FORM';
+export const TOGGLE_FORM = 'TOGGLE_FORM';
+export const EDIT_LIST = 'EDIT_LIST';
+export const FILTER_NAME = 'FILTER_NAME';
+export const FILTER_STATUS = 'FILTER_STATUS';
+export const SEARCHING_PRODUCT = 'SEARCHING_PRODUCT';
+export const SEARCHING_NAVBAR = 'SEARCHING_NAVBAR';
+export const ADD_TO_CART = 'ADD_TO_CART';
+export const UPDATE_QUANTITY = 'UPDATE_QUANTITY';
+export const DELETE_PRODUCT_CART = 'DELETE_PRODUCT_CART';
+export const UPDATE_MESSAGE = 'UPDATE_MESSAGE';

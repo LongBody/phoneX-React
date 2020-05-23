@@ -1,0 +1,14 @@
+.cart-nav {
+    font-size: 20px;
+    color: rgb(105, 105, 52);
+    position: relative;
+    .cart-nav-quantity {
+        position: absolute;
+        bottom: 5px;
+        font-size: 16px;
+    }
+}
+
+.header-wrap {
+    margin-bottom: 100px;
+}
