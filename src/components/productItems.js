@@ -7,11 +7,17 @@ import * as actions from '../actions/index'
 
 
 
+
+
+
 class ProductItems extends Component {
 
   constructor(props){
     super(props)
     this.buyProduct = this.buyProduct.bind(this)
+    this.state ={
+      sekeleten : false
+    }
   }
 
   
@@ -51,7 +57,6 @@ render(){
            <a href="#" className="btn btn-success ml-1 btn-sm" onClick={ this.addToCart}><i className="fas fa-shopping-cart mr-1"></i>Add to cart</a>
            </span>
          </div>
-  
        </div>
 
        

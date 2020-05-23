@@ -15,7 +15,7 @@ class Product extends Component {
 render(){
   let {products , keyword} = this.props
 console.log(products)
-console.log(keyword)
+
 
   if(keyword){
     products = products.filter((item) => {

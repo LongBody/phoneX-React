@@ -3,6 +3,7 @@ import { connect } from 'react-redux'
 import Products from '../components/Products';
 import PropTypes from 'prop-types';
 import CallApi from '../utils/callApi'
+import Sekeleten from '../components/Sekeleten'
 
 
 
@@ -33,6 +34,8 @@ render(){
   
 
   let {products} = this.state
+  if(products.length == 0) return <Sekeleten/>
+    
 
 
   return (
